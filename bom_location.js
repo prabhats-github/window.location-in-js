@@ -13,3 +13,7 @@ console.log("Protocol used = ",window.location.protocol)
 function open_google(){
     window.location.assign("https://www.google.com/")
 }
+
+function open_Youtube1(){
+    window.location.assign("https://www.youtube.com/")
+}
