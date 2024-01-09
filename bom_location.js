@@ -17,3 +17,8 @@ function open_google(){
 function open_Youtube1(){
     window.location.assign("https://www.youtube.com/")
 }
+
+// window.history.forward() function loads the  forward page you visited before....
+function open_history1(){
+    window.history.forward()
+}
